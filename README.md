@@ -7,6 +7,7 @@
 <a href="https://github.com/2db2du-byte"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=39FF14&center=true&vCenter=true&width=640&lines=Running+a+crew+of+free+AIs+on+Arch+Linux+%F0%9F%A6%9D;Mission+Control+lives+on+page+10+%F0%9F%9B%B8;My+butler+answers+to+%22Joshua%22+%F0%9F%8E%A9;If+it+ain't+free%2C+skip+it+%F0%9F%92%B8;Learning+Linux+one+command+at+a+time+%F0%9F%90%A7" alt="typing intro"/></a>
 
 <a href="https://2db2du-byte.github.io"><img src="https://img.shields.io/badge/🌐_my_homepage-2db2du--byte.github.io-39ff14?style=for-the-badge&labelColor=1a1b26" alt="my homepage"/></a>
+<a href="https://huggingface.co/RabbidRaccoon"><img src="https://img.shields.io/badge/🤗_Hugging_Face-RabbidRaccoon-FFD21E?style=for-the-badge&labelColor=1a1b26" alt="Hugging Face: RabbidRaccoon"/></a>
 <img src="https://komarev.com/ghpvc/?username=2db2du-byte&label=visitors&color=39ff14&style=for-the-badge" alt="profile views"/>
 
 </div>
@@ -31,6 +32,7 @@
 [![Ollama](https://img.shields.io/badge/Ollama-1a1b26?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com)
 [![n8n](https://img.shields.io/badge/n8n-1a1b26?style=for-the-badge&logo=n8n&logoColor=EA4B71)](https://n8n.io)
 [![Claude](https://img.shields.io/badge/Claude-1a1b26?style=for-the-badge&logo=claude&logoColor=D97757)](https://claude.com/claude-code)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-1a1b26?style=for-the-badge&logo=huggingface&logoColor=FFD21E)](https://huggingface.co/RabbidRaccoon)
 
 </div>
 
