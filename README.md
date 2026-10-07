@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:39ff14&height=170&section=header&text=Rabbid%20Raccoon&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=home%20lab%20tinkerer%20%C2%B7%20AI%20crew%20wrangler%20%C2%B7%20Linux%20student&descAlignY=72&descSize=18" width="100%"/>
 
-<img src="assets/rabbid.jpg" alt="Rabbid, a cyberpunk raccoon in sunglasses" width="200"/>
+<img src="assets/rabbid.png" alt="Rabbid, a cyberpunk raccoon in sunglasses" width="200"/>
 
 <a href="https://github.com/2db2du-byte"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=39FF14&center=true&vCenter=true&width=640&lines=Running+a+crew+of+free+AIs+on+Arch+Linux+%F0%9F%A6%9D;Mission+Control+lives+on+page+10+%F0%9F%9B%B8;My+butler+answers+to+%22Joshua%22+%F0%9F%8E%A9;If+it+ain't+free%2C+skip+it+%F0%9F%92%B8;Learning+Linux+one+command+at+a+time+%F0%9F%90%A7" alt="typing intro"/></a>
 
