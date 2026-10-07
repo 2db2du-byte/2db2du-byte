@@ -40,6 +40,7 @@
 
 | | Project | What it does |
 |:-:|---|---|
+| 🧪 | [**Ask Rick**](https://huggingface.co/spaces/RabbidRaccoon/ask-rick) | **Try it:** chat with a PG Rick Sanchez whose AI runs right in your browser |
 | 🛸 | [**crew-dashboard**](https://github.com/2db2du-byte/crew-dashboard) | **Mission Control**: a Rick and Morty themed dashboard + API for my home AI crew |
 | 🧪 | [**crew**](https://github.com/2db2du-byte/crew) | The crew's scheduled jobs (n8n) and a "brain switch": free cloud AIs online, local AIs offline |
 | 🎩 | [**hey-joshua**](https://github.com/2db2du-byte/hey-joshua) | An offline, always-listening voice butler with a British accent and a Carlin mouth |
