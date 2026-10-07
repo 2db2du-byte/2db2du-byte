@@ -1,26 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:39ff14&height=170&section=header&text=Rabbid%20Raccoon&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=home%20lab%20tinkerer%20%C2%B7%20AI%20crew%20wrangler%20%C2%B7%20Linux%20student&descAlignY=72&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:39ff14&height=170&section=header&text=Rabbid%20Raccoon&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=zero%20GPU%20%C2%B7%20zero%20dollars%20%C2%B7%20zero%20excuses&descAlignY=72&descSize=18" width="100%"/>
 
 <a href="https://2db2du-byte.github.io"><img src="assets/rabbid-city.jpg" alt="Rabbid: a raccoon in aviator sunglasses and a leather jacket on a neon-lit city street at night" width="100%"/></a>
 
-<a href="https://github.com/2db2du-byte"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=39FF14&center=true&vCenter=true&width=640&lines=Running+a+crew+of+free+AIs+on+Arch+Linux+%F0%9F%A6%9D;Mission+Control+lives+on+page+10+%F0%9F%9B%B8;My+butler+answers+to+%22Joshua%22+%F0%9F%8E%A9;If+it+ain't+free%2C+skip+it+%F0%9F%92%B8;Learning+Linux+one+command+at+a+time+%F0%9F%90%A7" alt="typing intro"/></a>
+<a href="https://github.com/2db2du-byte"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=39FF14&center=true&vCenter=true&width=680&lines=I+run+a+crew+of+AIs+on+a+laptop+with+no+GPU+%F0%9F%A6%9D;My+butler+has+the+mouth+of+George+Carlin+%F0%9F%8E%A9;Rick+lives+in+your+browser+now+%F0%9F%A7%AA;Zero+GPU.+Zero+dollars.+Zero+excuses.;If+it+ain't+free%2C+skip+it+%F0%9F%92%B8" alt="typing intro"/></a>
 
-<a href="https://2db2du-byte.github.io"><img src="https://img.shields.io/badge/🌐_my_homepage-2db2du--byte.github.io-39ff14?style=for-the-badge&labelColor=1a1b26" alt="my homepage"/></a>
-<a href="https://huggingface.co/RabbidRaccoon"><img src="https://img.shields.io/badge/🤗_Hugging_Face-RabbidRaccoon-FFD21E?style=for-the-badge&labelColor=1a1b26" alt="Hugging Face: RabbidRaccoon"/></a>
-<a href="https://ollama.com/2db2du"><img src="https://img.shields.io/badge/🦙_Ollama-2db2du-ffffff?style=for-the-badge&labelColor=1a1b26" alt="Ollama: 2db2du"/></a>
+### 🔗 Find me everywhere
+
+<a href="https://2db2du-byte.github.io"><img src="https://img.shields.io/badge/🌐_Homepage-2db2du--byte.github.io-39ff14?style=for-the-badge&labelColor=1a1b26" alt="Homepage"/></a>
+<a href="https://huggingface.co/RabbidRaccoon"><img src="https://img.shields.io/badge/🤗_Hugging_Face-RabbidRaccoon-FFD21E?style=for-the-badge&labelColor=1a1b26" alt="Hugging Face"/></a>
+<a href="https://ollama.com/2db2du"><img src="https://img.shields.io/badge/🦙_Ollama-2db2du-ffffff?style=for-the-badge&labelColor=1a1b26" alt="Ollama"/></a>
+<a href="https://bsky.app/profile/rabbid-raccoon.bsky.social"><img src="https://img.shields.io/badge/🦋_Bluesky-rabbid--raccoon-1185FE?style=for-the-badge&labelColor=1a1b26" alt="Bluesky"/></a>
 <img src="https://komarev.com/ghpvc/?username=2db2du-byte&label=visitors&color=39ff14&style=for-the-badge" alt="profile views"/>
 
 </div>
 
-## 🦝 About me
+## 🦝 Who's this raccoon?
 
-- 🐧 I run **[Omarchy](https://omarchy.org)** (Arch Linux + Hyprland) and I'm teaching myself Linux, one command at a time
-- 🤖 I keep a whole **crew of AI helpers** (Rick, Morty, Summer, Birdperson…) that check my backups, home lab and devices and report back every day
-- 🆓 House rule: **if it ain't totally free, skip it**. Free cloud AIs when I'm online, local AIs when I'm not
-- 🎩 I talk to **Joshua**, my offline voice butler: Jeeves manners, George Carlin mouth
-- 🧪 I test wild ideas on cheap, spare hardware before building them for real
-- 🔒 Private, local and self-hosted beats someone else's cloud
+I'm **Rabbid**. A few weeks ago I didn't know what `sudo` did. Now my laptop runs a whole crew of AI agents, a voice butler and its own private corner of the internet, on **zero GPU and zero subscriptions**.
+
+- 🧪 **I run an AI crew.** Rick, Morty, Birdperson, Beth and the gang babysit my backups, home lab and gadgets, then report in, in character, every single day.
+- 🎩 **My butler swears.** Joshua sleeps until he hears his name, then answers out loud with the manners of Jeeves and the mouth of George Carlin.
+- 🧠 **Free brains, both ways.** Free cloud AIs when I'm online, local AIs on the CPU when I'm not. The internet goes down, the crew keeps working.
+- 🐧 **Omarchy daily driver.** Arch Linux + Hyprland, learning it one command at a time, breaking things on purpose in my lab.
+- 🔒 **Private by default.** If it can run on my own machine, it does.
+
+> **House rule:** if it ain't totally free, skip it.
 
 ## 🛠️ What I work with
 
@@ -37,20 +43,21 @@
 
 </div>
 
-## 🚀 Things I've built
+## 🚀 Stuff I built
 
 | | Project | What it does |
 |:-:|---|---|
-| 🧪 | [**Ask Rick**](https://huggingface.co/spaces/RabbidRaccoon/ask-rick) | **Try it:** chat with a PG Rick Sanchez whose AI runs right in your browser |
-| 🦙 | [**Rick & Joshua on Ollama**](https://ollama.com/2db2du) | Run them on your own computer: `ollama run 2db2du/rick` or `ollama run 2db2du/joshua` |
-| 🛸 | [**crew-dashboard**](https://github.com/2db2du-byte/crew-dashboard) | **Mission Control**: a Rick and Morty themed dashboard + API for my home AI crew |
-| 🧪 | [**crew**](https://github.com/2db2du-byte/crew) | The crew's scheduled jobs (n8n) and a "brain switch": free cloud AIs online, local AIs offline |
-| 🎩 | [**hey-joshua**](https://github.com/2db2du-byte/hey-joshua) | An offline, always-listening voice butler with a British accent and a Carlin mouth |
-| 🧠 | [**ai-router**](https://github.com/2db2du-byte/ai-router) | `joshua`: terminal chat that sends every message to the best local AI model |
-| 🏠 | [**homelab**](https://github.com/2db2du-byte/homelab) | One command to run self-hosted apps (Nextcloud, Paperless, Mealie…) |
-| 🔎 | [**searxng**](https://github.com/2db2du-byte/searxng) | My own private search engine, started on demand |
+| 🧪 | [**Ask Rick**](https://huggingface.co/spaces/RabbidRaccoon/ask-rick) | **Try it now:** chat with a PG Rick Sanchez whose AI brain runs right inside *your* browser. No server. No account. |
+| 🦙 | [**Rick & Joshua on Ollama**](https://ollama.com/2db2du) | Put them on your own machine: `ollama run 2db2du/rick` or `ollama run 2db2du/joshua` |
+| 🛸 | [**crew-dashboard**](https://github.com/2db2du-byte/crew-dashboard) | **Mission Control**: the Rick and Morty dashboard + API that runs my AI crew |
+| 🧪 | [**crew**](https://github.com/2db2du-byte/crew) | The crew's daily jobs (n8n) and a "brain switch" that juggles 5 free AI services and falls back to local models |
+| 🎩 | [**hey-joshua**](https://github.com/2db2du-byte/hey-joshua) | The offline, always-listening voice butler |
+| 🧠 | [**ai-router**](https://github.com/2db2du-byte/ai-router) | `joshua`: terminal chat that routes every message to the best local model |
+| 🏠 | [**homelab**](https://github.com/2db2du-byte/homelab) | One command to run my self-hosted apps: Nextcloud, Paperless, Mealie, Immich |
+| 🔎 | [**searxng**](https://github.com/2db2du-byte/searxng) | My own private search engine, which my AIs search through too |
+| 🤗 | [**Rabbid's Lab**](https://huggingface.co/spaces/RabbidRaccoon/rabbids-lab) · [**the collection**](https://huggingface.co/collections/RabbidRaccoon/free-ais-on-a-laptop-with-no-gpu) | The whole setup, plus every free model my crew actually runs |
 
-All free, all MIT licensed. Take them, break them, make them better.
+All free. All MIT licensed. Take them, break them, make them better.
 
 ## 📊 Stats
 
