@@ -12,6 +12,7 @@
 <a href="https://huggingface.co/RabbidRaccoon"><img src="https://img.shields.io/badge/🤗_Hugging_Face-RabbidRaccoon-FFD21E?style=for-the-badge&labelColor=1a1b26" alt="Hugging Face"/></a>
 <a href="https://ollama.com/2db2du"><img src="https://img.shields.io/badge/🦙_Ollama-2db2du-ffffff?style=for-the-badge&labelColor=1a1b26" alt="Ollama"/></a>
 <a href="https://bsky.app/profile/rabbid-raccoon.bsky.social"><img src="https://img.shields.io/badge/🦋_Bluesky-rabbid--raccoon-1185FE?style=for-the-badge&labelColor=1a1b26" alt="Bluesky"/></a>
+<a href="https://dev.to/rabbidraccoon"><img src="https://img.shields.io/badge/✍️_Blog-dev.to%2Frabbidraccoon-0A0A0A?style=for-the-badge&labelColor=1a1b26" alt="Blog on dev.to"/></a>
 <img src="https://komarev.com/ghpvc/?username=2db2du-byte&label=visitors&color=39ff14&style=for-the-badge" alt="profile views"/>
 
 </div>
