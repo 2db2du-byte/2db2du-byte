@@ -8,6 +8,7 @@
 
 <a href="https://2db2du-byte.github.io"><img src="https://img.shields.io/badge/🌐_my_homepage-2db2du--byte.github.io-39ff14?style=for-the-badge&labelColor=1a1b26" alt="my homepage"/></a>
 <a href="https://huggingface.co/RabbidRaccoon"><img src="https://img.shields.io/badge/🤗_Hugging_Face-RabbidRaccoon-FFD21E?style=for-the-badge&labelColor=1a1b26" alt="Hugging Face: RabbidRaccoon"/></a>
+<a href="https://ollama.com/2db2du"><img src="https://img.shields.io/badge/🦙_Ollama-2db2du-ffffff?style=for-the-badge&labelColor=1a1b26" alt="Ollama: 2db2du"/></a>
 <img src="https://komarev.com/ghpvc/?username=2db2du-byte&label=visitors&color=39ff14&style=for-the-badge" alt="profile views"/>
 
 </div>
@@ -41,6 +42,7 @@
 | | Project | What it does |
 |:-:|---|---|
 | 🧪 | [**Ask Rick**](https://huggingface.co/spaces/RabbidRaccoon/ask-rick) | **Try it:** chat with a PG Rick Sanchez whose AI runs right in your browser |
+| 🦙 | [**Rick & Joshua on Ollama**](https://ollama.com/2db2du) | Run them on your own computer: `ollama run 2db2du/rick` or `ollama run 2db2du/joshua` |
 | 🛸 | [**crew-dashboard**](https://github.com/2db2du-byte/crew-dashboard) | **Mission Control**: a Rick and Morty themed dashboard + API for my home AI crew |
 | 🧪 | [**crew**](https://github.com/2db2du-byte/crew) | The crew's scheduled jobs (n8n) and a "brain switch": free cloud AIs online, local AIs offline |
 | 🎩 | [**hey-joshua**](https://github.com/2db2du-byte/hey-joshua) | An offline, always-listening voice butler with a British accent and a Carlin mouth |
