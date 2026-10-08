@@ -51,7 +51,7 @@ I'm **Rabbid**. A few weeks ago I didn't know what `sudo` did. Now my laptop run
 | 🧪 | [**Ask Rick**](https://huggingface.co/spaces/RabbidRaccoon/ask-rick) | **Try it now:** chat with a PG Rick Sanchez whose AI brain runs right inside *your* browser. No server. No account. |
 | 🦙 | [**Rick & Joshua on Ollama**](https://ollama.com/2db2du) | Put them on your own machine: `ollama run 2db2du/rick` or `ollama run 2db2du/joshua` |
 | 🛸 | [**crew-dashboard**](https://github.com/2db2du-byte/crew-dashboard) | **Mission Control**: the Rick and Morty dashboard + API that runs my AI crew |
-| 🧪 | [**crew**](https://github.com/2db2du-byte/crew) | The crew's daily jobs (n8n) and a "brain switch" that juggles 5 free AI services and falls back to local models |
+| 🧪 | [**crew**](https://github.com/2db2du-byte/crew) | The crew's daily jobs (n8n) and a "brain switch" that juggles 7 free AI services and falls back to local models |
 | 🎩 | [**hey-joshua**](https://github.com/2db2du-byte/hey-joshua) | The offline, always-listening voice butler |
 | 🧠 | [**ai-router**](https://github.com/2db2du-byte/ai-router) | `joshua`: terminal chat that routes every message to the best local model |
 | 🏠 | [**homelab**](https://github.com/2db2du-byte/homelab) | One command to run my self-hosted apps: Nextcloud, Paperless, Mealie, Immich |
