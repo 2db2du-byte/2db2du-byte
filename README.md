@@ -54,6 +54,7 @@ I'm **Rabbid**. A few weeks ago I didn't know what `sudo` did. Now my laptop run
 | 🧪 | [**crew**](https://github.com/2db2du-byte/crew) | The crew's daily jobs (n8n) and a "brain switch" that juggles 7 free AI services and falls back to local models |
 | 🎩 | [**hey-joshua**](https://github.com/2db2du-byte/hey-joshua) | The offline, always-listening voice butler |
 | 🧠 | [**ai-router**](https://github.com/2db2du-byte/ai-router) | `joshua`: terminal chat that routes every message to the best local model |
+| 🟩 | [**matrix-lab**](https://github.com/2db2du-byte/matrix-lab) | A Matrix-green desktop for Linux: a raccoon cursor + a seamless falling-code live wallpaper |
 | 🏠 | [**homelab**](https://github.com/2db2du-byte/homelab) | One command to run my self-hosted apps: Nextcloud, Paperless, Mealie, Immich |
 | 🔎 | [**searxng**](https://github.com/2db2du-byte/searxng) | My own private search engine, which my AIs search through too |
 | 🤗 | [**Rabbid's Lab**](https://huggingface.co/spaces/RabbidRaccoon/rabbids-lab) · [**the collection**](https://huggingface.co/collections/RabbidRaccoon/free-ais-on-a-laptop-with-no-gpu) | The whole setup, plus every free model my crew actually runs |
