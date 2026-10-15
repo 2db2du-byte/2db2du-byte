@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:39ff14&height=170&section=header&text=Rabbid%20Raccoon&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=zero%20GPU%20%C2%B7%20zero%20dollars%20%C2%B7%20zero%20excuses&descAlignY=72&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:39ff14&height=170&section=header&text=Rabbid%20Raccoon&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=one%20GPU%20%C2%B7%20zero%20dollars%20%C2%B7%20zero%20excuses&descAlignY=72&descSize=18" width="100%"/>
 
 <a href="https://2db2du-byte.github.io"><img src="assets/rabbid-city.jpg" alt="Rabbid: a raccoon in aviator sunglasses and a leather jacket on a neon-lit city street at night" width="100%"/></a>
 
-<a href="https://github.com/2db2du-byte"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=39FF14&center=true&vCenter=true&width=680&lines=I+run+a+crew+of+AIs+on+a+laptop+with+no+GPU+%F0%9F%A6%9D;My+butler+has+the+mouth+of+George+Carlin+%F0%9F%8E%A9;Rick+lives+in+your+browser+now+%F0%9F%A7%AA;Zero+GPU.+Zero+dollars.+Zero+excuses.;If+it+ain't+free%2C+skip+it+%F0%9F%92%B8" alt="typing intro"/></a>
+<a href="https://github.com/2db2du-byte"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=39FF14&center=true&vCenter=true&width=680&lines=I+run+a+crew+of+AIs+on+my+own+GPU+%F0%9F%A6%9D;My+butler+has+the+mouth+of+George+Carlin+%F0%9F%8E%A9;Rick+lives+in+your+browser+now+%F0%9F%A7%AA;One+GPU.+Zero+dollars.+Zero+excuses.;If+it+ain't+free%2C+skip+it+%F0%9F%92%B8" alt="typing intro"/></a>
 
 ### 🔗 Find me everywhere
 
@@ -20,12 +20,12 @@
 
 ## 🦝 Who's this raccoon?
 
-I'm **Rabbid**. A few weeks ago I didn't know what `sudo` did. Now my laptop runs a whole crew of AI agents, a voice butler and its own private corner of the internet, on **zero GPU and zero subscriptions**.
+I'm **Rabbid**. A few weeks ago I didn't know what `sudo` did. Now my own rig runs a whole crew of AI agents, a voice butler and its own private corner of the internet, on **one RTX 5060 and zero subscriptions**. (It all started on a laptop with no GPU at all.)
 
 - 🧪 **I run an AI crew.** Rick, Morty, Birdperson, Beth and the gang babysit my backups, home lab and gadgets, then report in, in character, every single day.
 - 🎩 **My butler swears.** Joshua sleeps until he hears his name, then answers out loud with the manners of Jeeves and the mouth of George Carlin.
-- 🧠 **Free brains, both ways.** Free cloud AIs when I'm online, local AIs on the CPU when I'm not. The internet goes down, the crew keeps working.
-- 🐧 **Omarchy daily driver.** Arch Linux + Hyprland, learning it one command at a time, breaking things on purpose in my lab.
+- 🧠 **Free brains, both ways.** Local AIs on my RTX 5060, free cloud AIs as backup. The internet goes down, the crew keeps working.
+- 🐧 **Linux, all in.** Cut my teeth on Omarchy (Arch + Hyprland), now on Ubuntu 26.04, learning it one command at a time and breaking things on purpose in my lab.
 - 🔒 **Private by default.** If it can run on my own machine, it does.
 
 > **House rule:** if it ain't totally free, skip it.
@@ -34,10 +34,11 @@ I'm **Rabbid**. A few weeks ago I didn't know what `sudo` did. Now my laptop run
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,mint,bash,git,github,docker,py,neovim,obsidian,cloudflare,discord,apple,bots,md&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,arch,mint,bash,git,github,docker,py,neovim,obsidian,cloudflare,discord,apple,bots,md&theme=dark)](https://skillicons.dev)
 
-[![Omarchy](https://img.shields.io/badge/Omarchy-1a1b26?style=for-the-badge&logo=archlinux&logoColor=1793D1)](https://omarchy.org)
-[![Hyprland](https://img.shields.io/badge/Hyprland-1a1b26?style=for-the-badge&logo=hyprland&logoColor=58E1FF)](https://hyprland.org)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-1a1b26?style=for-the-badge&logo=ubuntu&logoColor=E95420)](https://ubuntu.com)
+[![NVIDIA](https://img.shields.io/badge/RTX_5060-1a1b26?style=for-the-badge&logo=nvidia&logoColor=76B900)](https://www.nvidia.com)
+[![Omarchy](https://img.shields.io/badge/Omarchy_alum-1a1b26?style=for-the-badge&logo=archlinux&logoColor=1793D1)](https://omarchy.org)
 [![Ollama](https://img.shields.io/badge/Ollama-1a1b26?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com)
 [![n8n](https://img.shields.io/badge/n8n-1a1b26?style=for-the-badge&logo=n8n&logoColor=EA4B71)](https://n8n.io)
 [![Claude](https://img.shields.io/badge/Claude-1a1b26?style=for-the-badge&logo=claude&logoColor=D97757)](https://claude.com/claude-code)
@@ -58,7 +59,7 @@ I'm **Rabbid**. A few weeks ago I didn't know what `sudo` did. Now my laptop run
 | 🟩 | [**matrix-lab**](https://github.com/2db2du-byte/matrix-lab) | A Matrix-green desktop for Linux: a raccoon cursor + a seamless falling-code live wallpaper |
 | 🏠 | [**homelab**](https://github.com/2db2du-byte/homelab) | One command to run my self-hosted apps: Nextcloud, Paperless, Mealie, Immich |
 | 🔎 | [**searxng**](https://github.com/2db2du-byte/searxng) | My own private search engine, which my AIs search through too |
-| 🤗 | [**Rabbid's Lab**](https://huggingface.co/spaces/RabbidRaccoon/rabbids-lab) · [**the collection**](https://huggingface.co/collections/RabbidRaccoon/free-ais-on-a-laptop-with-no-gpu) | The whole setup, plus every free model my crew actually runs |
+| 🤗 | [**Rabbid's Lab**](https://huggingface.co/spaces/RabbidRaccoon/rabbids-lab) · [**the collection**](https://huggingface.co/collections/RabbidRaccoon/free-ais-on-my-own-gpu-6ac694416841d750eb0872df) | The whole setup, plus every free model my crew actually runs |
 
 All free. All MIT licensed. Take them, break them, make them better.
 
