@@ -16,7 +16,6 @@
 <a href="https://www.tiktok.com/@rabbidsraccoons"><img src="https://img.shields.io/badge/🎵_TikTok-rabbidsraccoons-ff0050?style=for-the-badge&labelColor=1a1b26" alt="TikTok"/></a>
 <a href="https://dev.to/rabbidraccoon"><img src="https://img.shields.io/badge/✍️_Blog-dev.to%2Frabbidraccoon-0A0A0A?style=for-the-badge&labelColor=1a1b26" alt="Blog on dev.to"/></a>
 <a href="https://discord.com/users/1083894691541553223"><img src="https://img.shields.io/badge/💬_Discord-RabbidsRaccoons-5865F2?style=for-the-badge&labelColor=1a1b26" alt="Discord: RabbidsRaccoons"/></a>
-<a href="https://www.facebook.com/profile.php?id=61595623026537"><img src="https://img.shields.io/badge/Facebook-Rabbid_Raccoon-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1a1b26" alt="Facebook: Rabbid Raccoon"/></a>
 <img src="https://komarev.com/ghpvc/?username=2db2du-byte&label=visitors&color=39ff14&style=for-the-badge" alt="profile views"/>
 
 </div>
