@@ -48,6 +48,11 @@ I'm **Rabbid**. A few weeks ago I didn't know what `sudo` did. Now my own rig ru
 
 </div>
 
+## 📣 Latest
+
+<!-- LATEST -->
+- **Oct 23, 2026** 🖖 [Bridge released – a Star Trek LCARS UI for your PC with AI crew doors.](https://github.com/2db2du-byte/bridge)
+
 ## 🚀 Stuff I built
 
 | | Project | What it does |
