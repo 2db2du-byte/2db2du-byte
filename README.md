@@ -51,6 +51,7 @@ I'm **Rabbid**. A few weeks ago I didn't know what `sudo` did. Now my own rig ru
 ## 📣 Latest
 
 <!-- LATEST -->
+- **Oct 26, 2026** 📱 [DON'T PANIC upgrade: PC status, 4 PC buttons, talk-only Claude helpers, security pass](https://github.com/2db2du-byte/hitchhikers-guide)
 - **Oct 26, 2026** 🎶 [rgb-mood: my PC lights pulse with the bass, and glow by temperature when it's quiet](https://github.com/2db2du-byte/rgb-mood)
 - **Oct 23, 2026** 🦝 [New iPad AI chat app "hitchhikers‑guide" lets your PC power the conversation.](https://github.com/2db2du-byte/hitchhikers-guide)
 - **Oct 23, 2026** 🖖 [Bridge released – a Star Trek LCARS UI for your PC with AI crew doors.](https://github.com/2db2du-byte/bridge)
