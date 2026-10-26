@@ -70,6 +70,9 @@ I'm **Rabbid**. A few weeks ago I didn't know what `sudo` did. Now my own rig ru
 | 🏠 | [**homelab**](https://github.com/2db2du-byte/homelab) | One command to run my self-hosted apps: Nextcloud, Paperless, Mealie, Immich |
 | 🔎 | [**searxng**](https://github.com/2db2du-byte/searxng) | My own private search engine, which my AIs search through too |
 | 🤗 | [**Rabbid's Lab**](https://huggingface.co/spaces/RabbidRaccoon/rabbids-lab) · [**the collection**](https://huggingface.co/collections/RabbidRaccoon/free-ais-on-my-own-gpu-6ac694416841d750eb0872df) | The whole setup, plus every free model my crew actually runs |
+| 🖖 | [**bridge**](https://github.com/2db2du-byte/bridge) | Bridge: a Star Trek LCARS control center for a home PC with GPU viewscreen and AI crew doors. |
+| 🦝 | [**hitchhikers-guide**](https://github.com/2db2du-byte/hitchhikers-guide) | An iPad home‑screen app that routes AI chats to your PC, supporting both cloud and local Ollama models. |
+| 🎶 | [**rgb-mood**](https://github.com/2db2du-byte/rgb-mood) | Case lights pulse with the bass of whatever's playing, and glow blue to red by CPU/GPU temperature when it's quiet. OpenRGB, Linux, free. |
 
 All free. All MIT licensed. Take them, break them, make them better.
 
