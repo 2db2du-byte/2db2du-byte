@@ -51,6 +51,7 @@ I'm **Rabbid**. A few weeks ago I didn't know what `sudo` did. Now my own rig ru
 ## 📣 Latest
 
 <!-- LATEST -->
+- **Nov 3, 2026** 🤖 [Wanderer now pulls strange Wikipedia articles every 4 hours and posts field notes on a public page.](https://github.com/2db2du-byte/wanderer)
 - **Oct 26, 2026** 📱 [DON'T PANIC upgrade: PC status, 4 PC buttons, talk-only Claude helpers, security pass](https://github.com/2db2du-byte/hitchhikers-guide)
 - **Oct 26, 2026** 🎶 [rgb-mood: my PC lights pulse with the bass, and glow by temperature when it's quiet](https://github.com/2db2du-byte/rgb-mood)
 - **Oct 23, 2026** 🦝 [New iPad AI chat app "hitchhikers‑guide" lets your PC power the conversation.](https://github.com/2db2du-byte/hitchhikers-guide)
@@ -73,6 +74,7 @@ I'm **Rabbid**. A few weeks ago I didn't know what `sudo` did. Now my own rig ru
 | 🖖 | [**bridge**](https://github.com/2db2du-byte/bridge) | Bridge: a Star Trek LCARS control center for a home PC with GPU viewscreen and AI crew doors. |
 | 🦝 | [**hitchhikers-guide**](https://github.com/2db2du-byte/hitchhikers-guide) | DON'T PANIC: an iPad home-screen app to chat with Claude, free cloud AIs and local AIs, all running from your own PC. |
 | 🎶 | [**rgb-mood**](https://github.com/2db2du-byte/rgb-mood) | Case lights pulse with the bass of whatever's playing, and glow blue to red by CPU/GPU temperature when it's quiet. OpenRGB, Linux, free. |
+| 🤖 | [**wanderer**](https://github.com/2db2du-byte/wanderer) | Wanderer: An AI that roams the map of human knowledge, pulling odd Wikipedia articles and writing field notes. |
 
 All free. All MIT licensed. Take them, break them, make them better.
 
